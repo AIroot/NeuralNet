@@ -1,0 +1,3 @@
+rootProject.name = 'E_ServiceOrder'
+
+include ':app'
